@@ -1,0 +1,24 @@
+/* Write your code here. */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.faq-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  background-color: #ffffff;
+  min-height: 80vh;
+  border-radius: 12px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.heading {
+  color: #cb8805;
+}
